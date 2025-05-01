@@ -1,6 +1,6 @@
 # 🚲 Interactive Citi Bike Station Map
 
-This project is a web-based interactive map that visualizes real-time Citi Bike station data in New York City. It uses **HTML**, **CSS**, and **JavaScript** (with **Leaflet.js**, **D3.js**, and **Moment.js**) to create an engaging and informative experience for users.
+This project is a web-based interactive map that visualizes real-time public transport data in New York City. It uses **HTML**, **CSS**, and **JavaScript** (with **Leaflet.js**, **D3.js**, and **Moment.js**) to create an engaging and informative experience for users.
 
 # 🚲 App deployed on Github Pages
 
